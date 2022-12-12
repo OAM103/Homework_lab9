@@ -1,4 +1,3 @@
-package com.metanit.Ex2;
 
 import java.util.ArrayList;
 
