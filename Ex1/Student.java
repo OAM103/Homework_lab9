@@ -1,4 +1,3 @@
-package com.metanit.Ex1;
 
 class Student {
 
